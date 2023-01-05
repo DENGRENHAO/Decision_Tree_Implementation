@@ -1,7 +1,5 @@
 # Classification Tree Implementation
 
-[TOC]
-
 ## Overview
 Build and train a decision tree with python by scratch. Tested on two kaggle datasets: 
 1. [Wine Quality Dataset](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
