@@ -10,10 +10,11 @@ Build and train a decision tree with python by scratch. Tested on two kaggle dat
 ## Prerequisite
 
 ```
+git clone https://github.com/DENGRENHAO/Decision_Tree_Implementation.git
 pip install -r requirements.txt
 ```
 
-## Code Explanatin
+## Code Explanation
 
 ### `DecisionTree.py`
 For Decision Tree
